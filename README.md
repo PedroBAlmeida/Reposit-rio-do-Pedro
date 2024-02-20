@@ -1,2 +1,2 @@
-# Reposit-rio-do-Pedro
+# Devetec
 Repositório do Pedro!
