@@ -1,2 +1,2 @@
-# Devetec
-Repositório do Pedro!
+# devetec
+Repositório oficial do Wagner
